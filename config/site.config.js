@@ -42,7 +42,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/docker', '/home','/web','/NPS','/FRP'],
+  protectedRoutes: ['/docker', '/home','/web','/NPS','/FRP','/2/My-python'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:admin@jiss.cf',
